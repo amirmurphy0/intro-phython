@@ -1,0 +1,1 @@
+"I think a computer program is where you work on different websites. Programs sometimes helps people with there everyday life so i also thinks it's an helpful thing"
