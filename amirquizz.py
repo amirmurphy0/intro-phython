@@ -1,4 +1,4 @@
-#1. What built-in function would you use if you wanted
+ #1. What built-in function would you use if you wanted
 # to print out data to a user? The built-in function you would use is print()
 
 #2. What built-in function would you use if you wanted 
